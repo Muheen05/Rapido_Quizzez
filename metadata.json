@@ -1,0 +1,5 @@
+{
+  "name": "CX Sentinel",
+  "description": "A gamified, AI-powered scenario training platform for Customer Experience agents. It uses Gemini to generate real-world support tickets based on SOPs, testing agents on critical thinking, empathy, and process adherence.",
+  "requestFramePermissions": []
+}
